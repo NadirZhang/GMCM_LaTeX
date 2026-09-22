@@ -1,7 +1,7 @@
 # 2026 年“华为杯”研究生数学建模竞赛 LaTeX 模板（Overleaf 可用）
 
 这是一个为 **2026 年“华为杯”研究生数学建模竞赛** 准备的 LaTeX 模板，支持 **Overleaf** 在线使用，采用 **XeLaTeX** 编译。  
-本模板已依据2026年新模板修正封面和题目叶，内置多款常用中文字体（如 KaiTi、LiSu、SimHei、SimSun、STXinwei 等）。
+本模板已依据2026年新模板修正封面和题目页，内置多款常用中文字体（如 KaiTi、LiSu、SimHei、SimSun、STXinwei 等）。
 
 ---
 
